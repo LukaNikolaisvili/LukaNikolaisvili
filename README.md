@@ -1,4 +1,3 @@
-
 <h2 align="left">Hi 👋! My name is Luka and I'm a Software Engineer from Canada.</h2>
 
 ###
@@ -88,3 +87,26 @@
 
 ###
 
+<img align="right" height="158" src="https://media.giphy.com/media/Lo223nSFGbSAZLBqmF/giphy.gif?cid=790b76112xtgpkl49r9drq4xujibjagt1hf3zsbi6zn2vqij&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img height="200" src="https://media.giphy.com/media/Lo223nSFGbSAZLBqmF/giphy.gif?cid=790b76112xtgpkl49r9drq4xujibjagt1hf3zsbi6zn2vqij&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
+
+###
+
+<div align="left">
+  <img height="200" src="https://media.giphy.com/media/Lo223nSFGbSAZLBqmF/giphy.gif?cid=790b76112xtgpkl49r9drq4xujibjagt1hf3zsbi6zn2vqij&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
+
+###
+
+<div align="right">
+  <img height="200" src="https://media.giphy.com/media/Lo223nSFGbSAZLBqmF/giphy.gif?cid=790b76112xtgpkl49r9drq4xujibjagt1hf3zsbi6zn2vqij&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+</div>
+
+###
