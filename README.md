@@ -3,23 +3,25 @@ About Me
 
 I am a highly skilled Software Engineer and Ethical Hacker with extensive real-world experience. My expertise includes multiple programming languages like C#, C, Java, Python, PHP, JavaScript, and SQL. I excel in developing robust, efficient, and scalable software solutions tailored to diverse project needs.
 
+```
 Professional Skills:
+```
+Software Development: Capable of managing projects from requirements gathering to deployment and maintenance, choosing the best language for optimal performance.
+Ethical Hacking and Cybersecurity: Skilled in identifying and mitigating security vulnerabilities, ensuring the safety and integrity of digital assets.
+Penetration Testing: Conduct thorough assessments of systems, networks, and applications using a combination of manual and automated tools.
+Quality Assurance and Automation Testing: Implement automated testing frameworks to ensure software meets the highest standards of quality and reliability.
 
-    Software Development: Capable of managing projects from requirements gathering to deployment and maintenance, choosing the best language for optimal performance.
-    Ethical Hacking and Cybersecurity: Skilled in identifying and mitigating security vulnerabilities, ensuring the safety and integrity of digital assets.
-    Penetration Testing: Conduct thorough assessments of systems, networks, and applications using a combination of manual and automated tools.
-    Quality Assurance and Automation Testing: Implement automated testing frameworks to ensure software meets the highest standards of quality and reliability.
-
+```
 Key Projects:
-
-    Phishing Detection Application: Developed a Flask-based machine learning application for predicting phishing URLs, involving feature extraction, URL hashing, and a pre-trained model for accurate predictions.
-    Admin Page for Project Management: Created an admin page for uploading and managing project details, streamlining project management and enhancing organizational efficiency.
-    Service Descriptions and Marketing: Crafted detailed descriptions for various services, including Comprehensive Application Testing, Custom Machine Learning Model Development, Professional CCTV Installation, Tailored Digital Marketing, and In-depth Penetration Testing.
-    Research Project on Adaptive Machine Learning Model: Engaged in developing an adaptive machine learning model capable of real-time learning and performance improvement.
-    Infiltratech: Building a network for my company, Infiltratech, which offers services such as cybersecurity and web development, dedicated to protecting digital assets and developing robust web applications.
-
+```
+Phishing Detection Application: Developed a Flask-based machine learning application for predicting phishing URLs, involving feature extraction, URL hashing, and a pre-trained model for accurate predictions.
+Admin Page for Project Management: Created an admin page for uploading and managing project details, streamlining project management and enhancing organizational efficiency.
+Service Descriptions and Marketing: Crafted detailed descriptions for various services, including Comprehensive Application Testing, Custom Machine Learning Model Development, Professional CCTV Installation, Tailored Digital Marketing, and In-depth Penetration Testing.
+Research Project on Adaptive Machine Learning Model: Engaged in developing an adaptive machine learning model capable of real-time learning and performance improvement.
+Infiltratech: Building a network for my company, Infiltratech, which offers services such as cybersecurity and web development, dedicated to protecting digital assets and developing robust web applications.
+```
 Personal Philosophy:
-
+```
 My approach to software engineering and cybersecurity is rooted in a commitment to excellence, continuous learning, and ethical practices. I believe in leveraging technology to solve complex problems and improve lives while maintaining the highest standards of security and privacy.
 
 I am always eager to take on new challenges and collaborate with like-minded professionals to create innovative solutions that drive progress and protect valuable digital assets.
