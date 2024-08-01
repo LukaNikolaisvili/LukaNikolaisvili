@@ -1,5 +1,4 @@
 # 💫 About Me:
-About Me
 
 I am a highly skilled Software Engineer and Ethical Hacker with extensive real-world experience. My expertise includes multiple programming languages like C#, C, Java, Python, PHP, JavaScript, and SQL. I excel in developing robust, efficient, and scalable software solutions tailored to diverse project needs.
 
