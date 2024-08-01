@@ -2,7 +2,7 @@
 About Me
 
 I am a highly skilled Software Engineer and Ethical Hacker with extensive real-world experience. My expertise includes multiple programming languages like C#, C, Java, Python, PHP, JavaScript, and SQL. I excel in developing robust, efficient, and scalable software solutions tailored to diverse project needs.
-
+```
 Professional Skills:
 ```
     Software Development: Capable of managing projects from requirements gathering to deployment and maintenance, choosing the best language for optimal performance.
@@ -19,7 +19,7 @@ Key Projects:
     Infiltratech: Building a network for my company, Infiltratech, which offers services such as cybersecurity and web development, dedicated to protecting digital assets and developing robust web applications.
 ```
 Personal Philosophy:
-
+```
 My approach to software engineering and cybersecurity is rooted in a commitment to excellence, continuous learning, and ethical practices. I believe in leveraging technology to solve complex problems and improve lives while maintaining the highest standards of security and privacy.
 
 I am always eager to take on new challenges and collaborate with like-minded professionals to create innovative solutions that drive progress and protect valuable digital assets.
