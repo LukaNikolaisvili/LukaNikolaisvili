@@ -1,8 +1,31 @@
-## 💫 About Me:
-##### I am a highly skilled Software Engineer and Ethical Hacker with extensive real-world experience. My expertise spans multiple programming languages, including C#, C, Java, and Python. I am proficient in developing robust, efficient, and scalable software solutions tailored to meet the specific needs of diverse projects.<br>Professional Skills:<br><br>    Software Development: I have a strong background in software development, capable of handling projects from initial requirements gathering to final deployment and maintenance. My coding proficiency in C#, C, Java, and Python enables me to choose the best language for each project, ensuring optimal performance and reliability.<br><br>    Ethical Hacking and Cybersecurity: As an Ethical Hacker, I am adept at identifying and mitigating security vulnerabilities within various systems and applications. My approach focuses on preemptively finding and fixing potential security issues, ensuring the safety and integrity of digital assets.<br><br>    Penetration Testing: My skills in penetration testing involve conducting thorough assessments of systems, networks, and applications to uncover security weaknesses. I use a combination of manual testing and automated tools to provide comprehensive security evaluations.<br><br>    Quality Assurance and Automation Testing: I excel in quality assurance and automation testing, ensuring that software products meet the highest standards of quality and reliability. By implementing automated testing frameworks, I streamline the testing process, reduce human error, and enhance overall efficiency.<br><br>Key Projects:<br><br>    Phishing Detection Application: I developed a phishing detection application using Flask that processes URLs to determine their safety. The project involved extracting features from URLs and web content, hashing URLs, and using a pre-trained model to make accurate predictions about the nature of the URLs.<br><br>    Admin Page for Project Management: I created an admin page that allows for the uploading of new projects and their details, including project name, description, image, ID, category, client, date, URL, and detailed information. This tool streamlines project management and enhances organizational efficiency.<br><br>    Service Descriptions and Marketing: I crafted detailed descriptions for various services, including Comprehensive Application Testing (STLC), Custom Machine Learning Model Development, Professional CCTV Installation Services, Tailored Digital Marketing Services (SEO, Google Ads, and more), and In-depth Penetration Testing for Systems and Architecture.<br><br>    Research Project on Adaptive Machine Learning Model: I am currently engaged in a research project focused on developing an adaptive machine learning model. This project aims to create a system that can learn and adapt in real-time to improve its performance and accuracy.<br><br>    Infiltratech: I am building a network for my own company, Infiltratech, which offers a variety of services, including cybersecurity and web development. Infiltratech is dedicated to providing top-notch solutions to help businesses protect their digital assets and develop robust web applications.<br><br>Personal Philosophy:<br><br>My approach to software engineering and cybersecurity is rooted in a commitment to excellence, continuous learning, and ethical practices. I believe in leveraging technology to solve complex problems and improve lives while maintaining the highest standards of security and privacy.<br><br>I am always eager to take on new challenges and collaborate with like-minded professionals to create innovative solutions that drive progress and protect valuable digital assets.
+# 💫 About Me:
+About Me
+
+I am a highly skilled Software Engineer and Ethical Hacker with extensive real-world experience. My expertise includes multiple programming languages like C#, C, Java, Python, PHP, JavaScript, and SQL. I excel in developing robust, efficient, and scalable software solutions tailored to diverse project needs.
+
+Professional Skills:
+```
+    Software Development: Capable of managing projects from requirements gathering to deployment and maintenance, choosing the best language for optimal performance.
+    Ethical Hacking and Cybersecurity: Skilled in identifying and mitigating security vulnerabilities, ensuring the safety and integrity of digital assets.
+    Penetration Testing: Conduct thorough assessments of systems, networks, and applications using a combination of manual and automated tools.
+    Quality Assurance and Automation Testing: Implement automated testing frameworks to ensure software meets the highest standards of quality and reliability.
+```
+Key Projects:
+```
+    Phishing Detection Application: Developed a Flask-based machine learning application for predicting phishing URLs, involving feature extraction, URL hashing, and a pre-trained model for accurate predictions.
+    Admin Page for Project Management: Created an admin page for uploading and managing project details, streamlining project management and enhancing organizational efficiency.
+    Service Descriptions and Marketing: Crafted detailed descriptions for various services, including Comprehensive Application Testing, Custom Machine Learning Model Development, Professional CCTV Installation, Tailored Digital Marketing, and In-depth Penetration Testing.
+    Research Project on Adaptive Machine Learning Model: Engaged in developing an adaptive machine learning model capable of real-time learning and performance improvement.
+    Infiltratech: Building a network for my company, Infiltratech, which offers services such as cybersecurity and web development, dedicated to protecting digital assets and developing robust web applications.
+```
+Personal Philosophy:
+
+My approach to software engineering and cybersecurity is rooted in a commitment to excellence, continuous learning, and ethical practices. I believe in leveraging technology to solve complex problems and improve lives while maintaining the highest standards of security and privacy.
+
+I am always eager to take on new challenges and collaborate with like-minded professionals to create innovative solutions that drive progress and protect valuable digital assets.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/lukan1ko/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/luka-nikolaisvili-925861187/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/26595613/luka-nikolaisvili) 
 
 # 💻 Tech Stack:
