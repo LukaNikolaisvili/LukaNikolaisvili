@@ -49,6 +49,8 @@ I am always eager to take on new challenges and collaborate with like-minded pro
 ---
 [![](https://visitcount.itsvg.in/api?id=lukanikolaisvili&icon=0&color=1)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=LukaNikolaisvili&label=Profile%20Views&color=2&icon=1&pretty=true)](https://visitcount.itsvg.in)
+
   ## 💰 Paypal
  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/LUKANIKOLAISVILI?country.x=CA&locale.x=en_US)
 
