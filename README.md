@@ -47,8 +47,6 @@ I am always eager to take on new challenges and collaborate with like-minded pro
 ![](https://github-contributor-stats.vercel.app/api?username=lukanikolaisvili&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lukanikolaisvili&icon=0&color=1)](https://visitcount.itsvg.in)
-
 [![](https://visitcount.itsvg.in/api?id=LukaNikolaisvili&label=Profile%20Views&color=2&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
   ## 💰 Paypal
