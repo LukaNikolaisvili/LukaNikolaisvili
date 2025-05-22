@@ -21,8 +21,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=LukaNikolaisvili&label=Profile%20Views&color=2&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
-  ## 💰 Paypal
- [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/LUKANIKOLAISVILI?country.x=CA&locale.x=en_US)
-
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
