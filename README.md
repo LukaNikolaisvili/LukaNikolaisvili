@@ -5,53 +5,52 @@
 ## 💻 Skills & Tooling
 
 ### 🧑‍💻 Software Development
-[Python](https://www.python.org) •
-[C](https://en.cppreference.com/w/c) •
-[Java](https://www.oracle.com/java/) •
-[C#](https://learn.microsoft.com/en-us/dotnet/csharp/) •
-[Node.js](https://nodejs.org) •
-[Flask](https://flask.palletsprojects.com) •
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) •
-[HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML) •
-[CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS) •
-[PHP](https://www.php.net)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 
 ### ☁️ DevOps & DevSecOps
-[AWS](https://aws.amazon.com) •
-[Docker](https://www.docker.com) •
-[Kubernetes](https://kubernetes.io) •
-[Terraform](https://www.terraform.io) •
-[GitHub Actions](https://docs.github.com/actions) •
-[GitLab CI/CD](https://docs.gitlab.com/ee/ci/) •
-[Jenkins](https://www.jenkins.io) •
-[Grafana](https://grafana.com) •
-[Trivy](https://aquasecurity.github.io/trivy/)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-CD?style=for-the-badge&logo=gitlab&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=aqua&logoColor=white)
 
 ---
 
 ### 🔐 Security & Analysis
-[Wireshark](https://www.wireshark.org) •
-[Nmap](https://nmap.org) •
-[Metasploit](https://www.metasploit.com) •
-[Aircrack-ng](https://www.aircrack-ng.org) •
-[Hydra](https://github.com/vanhauser-thc/thc-hydra) •
-[John the Ripper](https://www.openwall.com/john/) •
-[Hashcat](https://hashcat.net) •
-[SQLmap](https://sqlmap.org) •
-[Nikto](https://cirt.net/Nikto2)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge)
+![Aircrack-ng](https://img.shields.io/badge/Aircrack--ng-1F1F1F?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-333333?style=for-the-badge)
+![SQLmap](https://img.shields.io/badge/SQLmap-CC0000?style=for-the-badge)
 
 ---
 
 ### 📊 Data & Analytics
-[Pandas](https://pandas.pydata.org) •
-[NumPy](https://numpy.org) •
-[scikit-learn](https://scikit-learn.org) •
-[PySpark](https://spark.apache.org/docs/latest/api/python/) •
-[Databricks](https://www.databricks.com) •
-[PostgreSQL](https://www.postgresql.org) •
-[MySQL](https://www.mysql.com)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
 
 ---
 
