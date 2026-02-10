@@ -1,8 +1,25 @@
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/lukan1ko/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luka-nikolaisvili-925861187/)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26595613/luka-nikolaisvili)
-## 💻 Skills & Tooling
+## 🚀 Featured Projects
+
+### 🔐 Lightweight IoT Intrusion Detection System (IDS)
+**University of Waterloo | Sep 2024 – Dec 2024**
+
+- Built an **end-to-end IoT intrusion detection pipeline** spanning traffic simulation, PCAP processing, feature engineering, model training, and evaluation.
+- Automated **network traffic generation and capture** using **Mininet**, transforming raw PCAPs into structured datasets with **Scapy**.
+- Trained and benchmarked **lightweight ML models** optimized for **<5MB model size** and **<50ms inference latency**.
+- Implemented automated attack labeling and feature selection for **highly imbalanced datasets**.
+- Evaluated models using **precision, recall, F1-score, ROC-AUC**, and resource profiling.
+
+**Tech Stack:**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Mininet](https://img.shields.io/badge/Mininet-2E7D32?style=for-the-badge)
+![Scapy](https://img.shields.io/badge/Scapy-4A148C?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+---
+
+## 💻 Skills
 
 ### 🧑‍💻 Software Development
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
